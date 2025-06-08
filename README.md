@@ -34,21 +34,24 @@ Efashion is a full-featured e-commerce web application built using the **MERN St
 ```bash
 git clone https://github.com/aayuc710/efashion-mern-app.git
 cd efashion-mern-app
+```
 2. Install server dependencies
-bash
+```bash
 Copy
 Edit
 cd server
 npm install
+```
 3. Install client dependencies
-bash
+```bash
 Copy
 Edit
 cd ../client
 npm install
+```
 🌐 Environment Variables
 Create a .env file in the server/ directory and add the following:
-
+```bash
 env
 Copy
 Edit
@@ -60,8 +63,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 RAZORPAY_KEY_ID=your_razorpay_key
 RAZORPAY_SECRET_KEY=your_razorpay_secret
-📷 Screenshots
-Landing Page	Product View	Admin Panel
+```
 
 ✨ Highlights
 Clean, modular codebase
