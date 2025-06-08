@@ -37,8 +37,6 @@ cd efashion-mern-app
 ```
 2. Install server dependencies
 ```bash
-Copy
-Edit
 cd intern
 npm install
 ```
