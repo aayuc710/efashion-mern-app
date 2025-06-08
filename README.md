@@ -39,22 +39,17 @@ cd efashion-mern-app
 ```bash
 Copy
 Edit
-cd server
+cd intern
 npm install
 ```
 3. Install client dependencies
 ```bash
-Copy
-Edit
-cd ../client
+cd ../store
 npm install
 ```
 🌐 Environment Variables
 Create a .env file in the server/ directory and add the following:
 ```bash
-env
-Copy
-Edit
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
@@ -65,7 +60,7 @@ RAZORPAY_KEY_ID=your_razorpay_key
 RAZORPAY_SECRET_KEY=your_razorpay_secret
 ```
 
-✨ Highlights
+## ✨ Highlights
 Clean, modular codebase
 
 API-first backend architecture
@@ -74,13 +69,13 @@ Scalable design with separation of concerns
 
 Real-world user experience
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repo, raise issues, and submit PRs!
 
-📬 Contact
+## 📬 Contact
 Ayushi Patel
 📧 patelaayushi1003@gmail.com
-🔗 LinkedIn
+
 
 
 
